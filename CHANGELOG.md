@@ -2,7 +2,7 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
-## [Unreleased]
+## 1.2.0 – 2026-10-31
 
 ### Hinzugefügt
 - **Audiobookshelf-Anbindung**: Bücher direkt aus der eigenen Audiobookshelf-Bibliothek auswählen (Cover, Suche,
