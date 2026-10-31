@@ -1,0 +1,14 @@
+*.epub
+*.opub
+.DS_Store
+__pycache__/
+*.pyc
+dist/
+opub-converter/tests/ref/
+opub-converter/tests/out_mine/
+!opub-converter/tests/corpus/*.epub
+# embeds Apple's proprietary Georgia fonts: never commit (regenerate with opub-converter/tests/make_corpus.py)
+opub-converter/tests/corpus/06_fonts.epub
+
+# gebaute App (Releases als DMG)
+opub-converter/*.app/
